@@ -1,0 +1,20 @@
+{
+  "name": "deep-logitech",
+  "version": "1.0.0",
+  "description": "Programming Test Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyush Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^16.5.2",
+    "node-fetch": "^2.6.1"
+  }
+}
